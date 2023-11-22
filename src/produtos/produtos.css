@@ -1,0 +1,24 @@
+body{
+    background-image: url(../image/Governanca-de-TI_resized.png);
+}
+
+#titulo{
+    color: white;
+    font-size: 30px;
+    margin-left: 120px;
+}
+
+p{
+    font-size: 22px;
+    margin-left: 120px;
+    color: white;
+}
+
+#container{
+    margin-left: 120px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
